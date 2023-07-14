@@ -3,11 +3,12 @@
   <groupId>me.isaiah.mods</groupId>
   <artifactId>EconomyFabric</artifactId>
   <versioning>
-    <latest>1.4</latest>
-    <release>1.4</release>
+    <latest>1.4.1</latest>
+    <release>1.4.1</release>
     <versions>
       <version>1.4</version>
+      <version>1.4.1</version>
     </versions>
-    <lastUpdated>20230713013255</lastUpdated>
+    <lastUpdated>20230714232139</lastUpdated>
   </versioning>
 </metadata>
